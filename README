@@ -1,0 +1,38 @@
+Enumerating Polytropes (arxiv:1310.2012)
+Input, output files and codes for polytrope enumeration. 
+
+Input files:
+gfan4.maximal: reduced Grobner bases, with generators of the 
+symmetric gorup S_4, for the open cones of the
+polyhedral complex GF_4|P (n = 4)
+gfan5.maximal: same as above for n = 5
+gfan6.maximal: same as above for n = 6
+rays.gfp4: the rays of GF_4|P, listed in output/gfan4.gfp
+cones.gfp4: cones of GF_4|P, one for each orbit, listed in output/gfan4.gfp
+
+Script:
+parsegfangrobner.py: this Python 2.7 code takes in rays.gfp4 and cones.gfp4, 
+removes cones which correspond to lower dimensional polytropes, 
+and returns the number of full-dimensional polytrope cones. 
+
+Example run (n = 4):
+We computed all cones of GF_4|P using gfan by running:
+gfan_topolyhedralfan --symmetry < input/gfan4.maximal > output/gfan4.gfp
+
+Number of combinatorial tropical types of polytropes in TP^3 is the 
+number of 'New Orbits' in gfan4.gfp. We can count this by running:
+
+fgrep output/gfan4.gfp -e 'New Orbit' | wc -l
+
+Take this number, divide by 2 and subtract the number of maximal cones (since 
+each orbit is displayed twice each time, and the maximal cones are display 4 times). 
+For n = 4, for example, we get 1026. 
+
+From gfan4.gfp, we extracted the list of rays into input/rays.gfp4, 
+and the cones into input/cones.gfp4, one for each orbit representative. 
+
+Finally, run parsegfangrobner.py with input names input/rays.gfp4, input/cones.gfp4. 
+This returns 1013 - the number of full-dimensional polytrope cones of GF_4|P.
+
+
+

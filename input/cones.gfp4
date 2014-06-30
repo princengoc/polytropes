@@ -1,0 +1,1027 @@
+{}	# New orbit	# Dimension 3
+{2}	# New orbit	# Dimension 4
+{6}	# New orbit
+{9}	# New orbit
+{15}	# New orbit
+{27}	# New orbit
+{39}	# New orbit
+{63}	# New orbit
+{5 6}	# New orbit	# Dimension 5
+{2 6}	# New orbit
+{2 9}	# New orbit
+{6 9}	# New orbit
+{1 15}	# New orbit
+{6 15}	# New orbit
+{5 26}	# New orbit
+{2 26}	# New orbit
+{5 27}	# New orbit
+{6 27}	# New orbit
+{9 26}	# New orbit
+{3 39}	# New orbit
+{4 39}	# New orbit
+{13 27}	# New orbit
+{15 27}	# New orbit
+{2 39}	# New orbit
+{6 39}	# New orbit
+{9 39}	# New orbit
+{25 26}	# New orbit
+{5 63}	# New orbit
+{15 39}	# New orbit
+{2 63}	# New orbit
+{6 63}	# New orbit
+{26 27}	# New orbit
+{8 63}	# New orbit
+{25 39}	# New orbit
+{14 63}	# New orbit
+{26 39}	# New orbit
+{37 39}	# New orbit
+{25 63}	# New orbit
+{26 63}	# New orbit
+{27 63}	# New orbit
+{39 58}	# New orbit
+{39 60}	# New orbit
+{4 5 6}	# New orbit	# Dimension 6
+{2 5 6}	# New orbit
+{5 6 8}	# New orbit
+{2 6 9}	# New orbit
+{5 6 13}	# New orbit
+{5 6 15}	# New orbit
+{1 6 15}	# New orbit
+{4 5 26}	# New orbit
+{4 6 27}	# New orbit
+{0 6 27}	# New orbit
+{2 5 26}	# New orbit
+{5 6 26}	# New orbit
+{2 6 26}	# New orbit
+{5 6 27}	# New orbit
+{3 4 39}	# New orbit
+{6 8 27}	# New orbit
+{2 9 26}	# New orbit
+{6 9 26}	# New orbit
+{6 15 25}	# New orbit
+{5 14 26}	# New orbit
+{3 6 39}	# New orbit
+{5 15 26}	# New orbit
+{2 14 26}	# New orbit
+{4 6 39}	# New orbit
+{6 14 26}	# New orbit
+{6 13 27}	# New orbit
+{5 15 27}	# New orbit
+{5 6 39}	# New orbit
+{6 15 27}	# New orbit
+{1 6 39}	# New orbit
+{3 9 39}	# New orbit
+{2 6 39}	# New orbit
+{4 9 39}	# New orbit
+{2 9 39}	# New orbit
+{3 15 39}	# New orbit
+{6 9 39}	# New orbit
+{5 25 26}	# New orbit
+{4 15 39}	# New orbit
+{2 25 26}	# New orbit
+{6 25 26}	# New orbit
+{6 25 27}	# New orbit
+{5 15 39}	# New orbit
+{1 15 39}	# New orbit
+{2 5 63}	# New orbit
+{5 6 63}	# New orbit
+{5 26 27}	# New orbit
+{6 15 39}	# New orbit
+{2 6 63}	# New orbit
+{5 8 63}	# New orbit
+{6 26 27}	# New orbit
+{2 8 63}	# New orbit
+{6 8 63}	# New orbit
+{3 25 39}	# New orbit
+{4 25 39}	# New orbit
+{15 25 26}	# New orbit
+{3 26 39}	# New orbit
+{4 26 39}	# New orbit
+{14 25 27}	# New orbit
+{5 25 39}	# New orbit
+{5 14 63}	# New orbit
+{2 25 39}	# New orbit
+{6 25 39}	# New orbit
+{2 14 63}	# New orbit
+{6 14 63}	# New orbit
+{14 26 27}	# New orbit
+{5 26 39}	# New orbit
+{15 26 27}	# New orbit
+{2 26 39}	# New orbit
+{6 26 39}	# New orbit
+{11 26 39}	# New orbit
+{15 22 39}	# New orbit
+{5 37 39}	# New orbit
+{9 25 39}	# New orbit
+{6 37 39}	# New orbit
+{9 26 39}	# New orbit
+{24 25 27}	# New orbit
+{9 37 39}	# New orbit
+{5 25 63}	# New orbit
+{15 25 39}	# New orbit
+{2 25 63}	# New orbit
+{6 25 63}	# New orbit
+{8 25 63}	# New orbit
+{5 26 63}	# New orbit
+{15 26 39}	# New orbit
+{2 26 63}	# New orbit
+{6 26 63}	# New orbit
+{8 26 63}	# New orbit
+{22 26 39}	# New orbit
+{4 39 58}	# New orbit
+{5 27 63}	# New orbit
+{15 37 39}	# New orbit
+{4 38 61}	# New orbit
+{6 27 63}	# New orbit
+{8 27 63}	# New orbit
+{5 39 58}	# New orbit
+{1 39 58}	# New orbit
+{14 15 27 37}	# New orbit
+{1 39 60}	# New orbit
+{14 25 63}	# New orbit
+{6 39 60}	# New orbit
+{25 26 39}	# New orbit
+{14 26 63}	# New orbit
+{9 39 58}	# New orbit
+{14 27 63}	# New orbit
+{9 39 60}	# New orbit
+{26 37 39}	# New orbit
+{15 39 58}	# New orbit
+{15 39 60}	# New orbit
+{25 26 63}	# New orbit
+{22 39 60}	# New orbit
+{26 39 57}	# New orbit
+{25 27 63}	# New orbit
+{26 27 63}	# New orbit
+{25 39 58}	# New orbit
+{26 39 60}	# New orbit
+{5 25 38 61}	# New orbit
+{6 26 38 59}	# New orbit
+{37 39 60}	# New orbit
+{3 4 5 6}	# New orbit	# Dimension 7
+{4 5 6 15}	# New orbit
+{3 4 6 27}	# New orbit
+{4 5 6 26}	# New orbit
+{2 5 6 25}	# New orbit
+{4 5 6 27}	# New orbit
+{2 5 6 26}	# New orbit
+{2 5 9 25}	# New orbit
+{5 6 8 27}	# New orbit
+{3 4 6 39}	# New orbit
+{4 5 15 26}	# New orbit
+{2 6 9 26}	# New orbit
+{2 5 14 25}	# New orbit
+{5 6 14 25}	# New orbit
+{4 5 14 27}	# New orbit
+{3 5 6 39}	# New orbit
+{4 6 14 27}	# New orbit
+{4 5 6 39}	# New orbit
+{4 6 15 27}	# New orbit
+{5 6 14 26}	# New orbit
+{5 6 13 27}	# New orbit
+{5 6 15 26}	# New orbit
+{2 6 14 26}	# New orbit
+{0 5 6 18 27}	# New orbit
+{5 6 15 27}	# New orbit
+{2 5 6 39}	# New orbit
+{3 6 9 39}	# New orbit
+{3 5 25 26}	# New orbit
+{3 4 15 39}	# New orbit
+{4 6 9 39}	# New orbit
+{3 6 25 26}	# New orbit
+{4 6 25 26}	# New orbit
+{3 5 15 39}	# New orbit
+{1 6 9 39}	# New orbit
+{4 5 15 39}	# New orbit
+{2 6 9 39}	# New orbit
+{3 5 26 27}	# New orbit
+{3 6 15 39}	# New orbit
+{2 5 25 26}	# New orbit
+{5 6 25 26}	# New orbit
+{4 6 15 39}	# New orbit
+{2 6 25 26}	# New orbit
+{5 6 25 27}	# New orbit
+{1 5 15 39}	# New orbit
+{5 6 15 39}	# New orbit
+{1 6 15 39}	# New orbit
+{2 5 6 63}	# New orbit
+{5 6 26 27}	# New orbit
+{5 6 26 37}	# New orbit
+{2 5 8 63}	# New orbit
+{5 6 8 63}	# New orbit
+{2 6 8 63}	# New orbit
+{3 4 26 39}	# New orbit
+{3 5 25 39}	# New orbit
+{4 5 25 39}	# New orbit
+{3 6 25 39}	# New orbit
+{3 14 26 27}	# New orbit
+{5 15 25 26}	# New orbit
+{4 6 25 39}	# New orbit
+{3 5 26 39}	# New orbit
+{6 15 25 26}	# New orbit
+{4 5 26 39}	# New orbit
+{5 13 26 27}	# New orbit
+{3 6 26 39}	# New orbit
+{4 6 26 39}	# New orbit
+{5 14 25 27}	# New orbit
+{5 14 25 37}	# New orbit
+{6 14 25 27}	# New orbit
+{6 14 25 37}	# New orbit
+{3 5 37 39}	# New orbit
+{2 5 25 39}	# New orbit
+{5 6 25 39}	# New orbit
+{6 15 25 27}	# New orbit
+{2 5 14 63}	# New orbit
+{5 6 14 63}	# New orbit
+{5 14 26 27}	# New orbit
+{5 14 26 37}	# New orbit
+{3 6 37 39}	# New orbit
+{2 6 25 39}	# New orbit
+{4 9 25 39}	# New orbit
+{5 15 26 27}	# New orbit
+{2 6 14 63}	# New orbit
+{4 6 37 39}	# New orbit
+{6 14 26 27}	# New orbit
+{6 14 26 37}	# New orbit
+{2 5 26 39}	# New orbit
+{5 6 26 39}	# New orbit
+{6 15 26 27}	# New orbit
+{3 9 26 39}	# New orbit
+{2 6 26 39}	# New orbit
+{1 15 22 39}	# New orbit
+{2 11 26 39}	# New orbit
+{6 11 26 39}	# New orbit
+{6 15 22 39}	# New orbit
+{5 9 25 39}	# New orbit
+{5 6 37 39}	# New orbit
+{2 9 25 39}	# New orbit
+{3 15 25 39}	# New orbit
+{4 15 25 39}	# New orbit
+{2 9 26 39}	# New orbit
+{3 15 26 39}	# New orbit
+{6 9 26 39}	# New orbit
+{4 15 26 39}	# New orbit
+{5 9 37 39}	# New orbit
+{6 24 25 27}	# New orbit
+{6 25 27 33}	# New orbit
+{5 15 25 39}	# New orbit
+{6 9 37 39}	# New orbit
+{2 5 25 63}	# New orbit
+{5 6 25 63}	# New orbit
+{6 15 25 39}	# New orbit
+{2 6 25 63}	# New orbit
+{5 8 25 63}	# New orbit
+{5 15 26 39}	# New orbit
+{2 8 25 63}	# New orbit
+{2 5 26 63}	# New orbit
+{5 6 26 63}	# New orbit
+{6 15 26 39}	# New orbit
+{2 6 26 63}	# New orbit
+{2 8 26 63}	# New orbit
+{6 8 26 63}	# New orbit
+{5 26 27 36}	# New orbit
+{6 22 26 39}	# New orbit
+{4 5 39 58}	# New orbit
+{5 15 37 39}	# New orbit
+{4 14 15 27 37}	# New orbit
+{5 6 27 63}	# New orbit
+{6 15 37 39}	# New orbit
+{4 6 38 61}	# New orbit
+{5 8 27 63}	# New orbit
+{3 25 26 39}	# New orbit
+{6 8 27 63}	# New orbit
+{4 25 26 39}	# New orbit
+{1 5 39 58}	# New orbit
+{5 14 15 27 37}	# New orbit
+{4 9 39 58}	# New orbit
+{15 24 25 27}	# New orbit
+{6 14 15 27 37}	# New orbit
+{5 14 25 63}	# New orbit
+{1 6 39 60}	# New orbit
+{4 9 38 61}	# New orbit
+{2 14 25 63}	# New orbit
+{6 14 25 63}	# New orbit
+{5 25 26 39}	# New orbit
+{5 14 26 63}	# New orbit
+{2 25 26 39}	# New orbit
+{6 25 26 39}	# New orbit
+{2 14 26 63}	# New orbit
+{6 14 26 63}	# New orbit
+{14 26 27 36}	# New orbit
+{15 22 26 39}	# New orbit
+{5 13 22 26 39}	# New orbit
+{5 9 39 58}	# New orbit
+{1 9 39 58}	# New orbit
+{5 6 9 38 39}	# New orbit
+{5 25 37 39}	# New orbit
+{5 14 27 63}	# New orbit
+{4 15 39 58}	# New orbit
+{1 9 39 60}	# New orbit
+{6 25 37 39}	# New orbit
+{6 14 27 63}	# New orbit
+{3 15 39 60}	# New orbit
+{6 9 39 60}	# New orbit
+{5 26 37 39}	# New orbit
+{6 26 37 39}	# New orbit
+{6 14 21 36 38}	# New orbit
+{5 15 39 58}	# New orbit
+{1 15 39 58}	# New orbit
+{1 15 39 60}	# New orbit
+{6 25 33 63}	# New orbit
+{6 15 39 60}	# New orbit
+{9 26 37 39}	# New orbit
+{5 25 26 63}	# New orbit
+{15 25 26 39}	# New orbit
+{2 25 26 63}	# New orbit
+{6 25 26 63}	# New orbit
+{1 22 39 60}	# New orbit
+{6 22 39 60}	# New orbit
+{5 26 36 63}	# New orbit
+{2 26 39 57}	# New orbit
+{6 26 39 57}	# New orbit
+{2 5 25 37 59}	# New orbit
+{5 25 27 63}	# New orbit
+{6 25 27 63}	# New orbit
+{5 26 27 63}	# New orbit
+{15 26 37 39}	# New orbit
+{3 26 39 60}	# New orbit
+{6 26 27 63}	# New orbit
+{2 6 26 37 61}	# New orbit
+{9 22 39 60}	# New orbit
+{5 27 36 63}	# New orbit
+{9 26 39 57}	# New orbit
+{5 25 39 58}	# New orbit
+{14 15 25 27 37}	# New orbit
+{4 5 25 38 61}	# New orbit
+{3 6 26 38 59}	# New orbit
+{14 15 26 27 37}	# New orbit
+{6 26 39 60}	# New orbit
+{15 22 39 60}	# New orbit
+{14 26 36 63}	# New orbit
+{5 37 39 58}	# New orbit
+{9 25 39 58}	# New orbit
+{2 5 25 38 61}	# New orbit
+{5 6 26 38 59}	# New orbit
+{5 6 25 38 61}	# New orbit
+{14 25 27 63}	# New orbit
+{2 6 26 38 59}	# New orbit
+{6 37 39 60}	# New orbit
+{25 26 37 39}	# New orbit
+{14 26 27 63}	# New orbit
+{9 26 39 60}	# New orbit
+{15 25 39 58}	# New orbit
+{5 9 25 38 61}	# New orbit
+{6 9 26 38 59}	# New orbit
+{9 37 39 60}	# New orbit
+{5 9 26 39 59}	# New orbit
+{6 9 25 39 61}	# New orbit
+{15 26 39 60}	# New orbit
+{5 14 25 38 61}	# New orbit
+{6 14 26 38 59}	# New orbit
+{25 27 33 63}	# New orbit
+{15 37 39 60}	# New orbit
+{5 22 23 39 60}	# New orbit
+{6 21 26 38 59}	# New orbit
+{26 27 36 63}	# New orbit
+{9 21 26 57 59}	# New orbit
+{6 24 25 39 58}	# New orbit
+{5 23 26 39 60}	# New orbit
+{26 37 39 60}	# New orbit
+{5 25 37 38 61}	# New orbit
+{6 26 37 38 59}	# New orbit
+{14 25 26 37 63}	# New orbit
+{15 25 26 27 63}	# New orbit
+{9 24 25 58 61}	# New orbit
+{2 37 38 59 61}	# New orbit
+{3 4 5 6 15}	# New orbit	# Dimension 8
+{3 4 5 6 27}	# New orbit
+{3 4 5 6 39}	# New orbit
+{3 4 6 15 27}	# New orbit
+{3 5 6 13 27}	# New orbit
+{4 5 6 15 26}	# New orbit
+{4 5 6 14 27}	# New orbit
+{4 5 6 15 27}	# New orbit
+{2 4 5 6 21 25}	# New orbit
+{3 4 5 15 39}	# New orbit
+{2 3 5 25 26}	# New orbit
+{3 5 6 25 26}	# New orbit
+{3 4 6 15 39}	# New orbit
+{4 5 6 25 26}	# New orbit
+{2 4 6 25 26}	# New orbit
+{1 4 6 9 22 24}	# New orbit
+{3 5 6 15 39}	# New orbit
+{4 5 6 15 39}	# New orbit
+{3 5 6 26 27}	# New orbit
+{2 5 6 25 26}	# New orbit
+{1 4 6 15 22 24}	# New orbit
+{3 4 5 25 39}	# New orbit
+{3 5 15 25 26}	# New orbit
+{3 4 6 25 39}	# New orbit
+{3 6 15 25 26}	# New orbit
+{3 4 5 26 39}	# New orbit
+{4 6 15 25 26}	# New orbit
+{3 4 6 26 39}	# New orbit
+{3 5 6 25 39}	# New orbit
+{4 6 14 25 27}	# New orbit
+{3 5 14 26 27}	# New orbit
+{4 5 6 25 39}	# New orbit
+{3 5 15 26 27}	# New orbit
+{3 6 14 26 27}	# New orbit
+{5 6 15 25 26}	# New orbit
+{3 5 6 26 39}	# New orbit
+{4 5 6 26 39}	# New orbit
+{5 6 13 26 27}	# New orbit
+{3 6 11 26 39}	# New orbit
+{3 6 15 22 39}	# New orbit
+{2 4 5 21 25 26}	# New orbit
+{4 6 11 26 39}	# New orbit
+{4 6 15 22 39}	# New orbit
+{5 6 14 25 27}	# New orbit
+{5 6 14 25 37}	# New orbit
+{5 6 15 25 27}	# New orbit
+{3 5 6 37 39}	# New orbit
+{2 5 6 25 39}	# New orbit
+{4 5 9 25 39}	# New orbit
+{4 5 6 37 39}	# New orbit
+{5 6 14 26 27}	# New orbit
+{5 6 14 26 37}	# New orbit
+{5 6 15 26 27}	# New orbit
+{5 6 15 26 37}	# New orbit
+{2 5 6 26 39}	# New orbit
+{3 6 9 26 39}	# New orbit
+{3 4 15 26 39}	# New orbit
+{1 6 15 22 39}	# New orbit
+{2 6 11 26 39}	# New orbit
+{3 5 9 37 39}	# New orbit
+{2 5 9 25 39}	# New orbit
+{3 5 15 25 39}	# New orbit
+{3 6 9 37 39}	# New orbit
+{4 5 15 25 39}	# New orbit
+{3 6 15 25 39}	# New orbit
+{4 6 9 37 39}	# New orbit
+{4 6 15 25 39}	# New orbit
+{3 5 15 26 39}	# New orbit
+{4 5 15 26 39}	# New orbit
+{2 6 9 26 39}	# New orbit
+{3 6 15 26 39}	# New orbit
+{4 6 15 26 39}	# New orbit
+{5 6 24 25 27}	# New orbit
+{5 6 24 25 37}	# New orbit
+{5 6 25 27 33}	# New orbit
+{3 5 15 37 39}	# New orbit
+{3 4 14 15 27 37}	# New orbit
+{5 6 15 25 39}	# New orbit
+{3 6 15 37 39}	# New orbit
+{2 5 6 25 63}	# New orbit
+{4 6 15 37 39}	# New orbit
+{2 5 8 25 63}	# New orbit
+{5 6 15 26 39}	# New orbit
+{2 5 6 26 63}	# New orbit
+{3 4 25 26 39}	# New orbit
+{2 6 8 26 63}	# New orbit
+{5 6 26 27 36}	# New orbit
+{4 5 14 15 27 37}	# New orbit
+{5 6 15 37 39}	# New orbit
+{4 6 14 15 27 37}	# New orbit
+{3 5 25 26 39}	# New orbit
+{5 6 8 27 63}	# New orbit
+{4 5 25 26 39}	# New orbit
+{3 6 25 26 39}	# New orbit
+{4 6 25 26 39}	# New orbit
+{4 5 9 39 58}	# New orbit
+{5 15 23 26 27}	# New orbit
+{5 15 23 26 37}	# New orbit
+{5 6 14 15 27 37}	# New orbit
+{6 15 23 26 27}	# New orbit
+{6 15 24 25 27}	# New orbit
+{6 15 24 25 37}	# New orbit
+{6 15 23 27 35}	# New orbit
+{4 5 6 9 38 39}	# New orbit
+{3 6 15 25 27 33}	# New orbit
+{2 5 14 25 63}	# New orbit
+{5 6 14 25 63}	# New orbit
+{4 6 9 38 61}	# New orbit
+{3 5 26 37 39}	# New orbit
+{2 5 25 26 39}	# New orbit
+{5 6 25 26 39}	# New orbit
+{5 6 14 26 63}	# New orbit
+{4 5 26 37 39}	# New orbit
+{3 6 26 37 39}	# New orbit
+{2 6 25 26 39}	# New orbit
+{2 6 14 26 63}	# New orbit
+{4 6 26 37 39}	# New orbit
+{5 14 26 27 36}	# New orbit
+{6 14 26 27 36}	# New orbit
+{3 6 14 21 36 38}	# New orbit
+{4 5 15 26 27 36}	# New orbit
+{6 15 22 26 39}	# New orbit
+{5 6 13 22 26 39}	# New orbit
+{2 5 6 8 53 63}	# New orbit
+{1 5 9 39 58}	# New orbit
+{4 5 15 39 58}	# New orbit
+{2 5 6 9 38 39}	# New orbit
+{5 6 25 37 39}	# New orbit
+{5 6 14 27 63}	# New orbit
+{1 6 9 39 60}	# New orbit
+{3 6 15 39 60}	# New orbit
+{5 6 26 37 39}	# New orbit
+{3 15 25 26 39}	# New orbit
+{4 15 25 26 39}	# New orbit
+{5 6 14 21 36 38}	# New orbit
+{5 6 15 22 35 39}	# New orbit
+{2 6 14 21 36 38}	# New orbit
+{1 5 15 39 58}	# New orbit
+{5 9 25 37 39}	# New orbit
+{5 6 25 33 63}	# New orbit
+{1 6 15 39 60}	# New orbit
+{5 15 25 26 39}	# New orbit
+{6 9 26 37 39}	# New orbit
+{2 5 25 26 63}	# New orbit
+{5 6 25 26 63}	# New orbit
+{6 15 25 26 39}	# New orbit
+{2 6 25 26 63}	# New orbit
+{2 4 6 21 38 61}	# New orbit
+{1 6 22 39 60}	# New orbit
+{2 4 6 25 39 57}	# New orbit
+{5 6 26 36 63}	# New orbit
+{2 6 26 39 57}	# New orbit
+{5 15 25 37 39}	# New orbit
+{4 14 15 25 27 37}	# New orbit
+{5 6 25 27 63}	# New orbit
+{6 15 25 37 39}	# New orbit
+{3 14 15 26 27 37}	# New orbit
+{5 15 26 37 39}	# New orbit
+{5 6 26 27 63}	# New orbit
+{6 15 26 37 39}	# New orbit
+{3 6 26 39 60}	# New orbit
+{1 9 22 39 60}	# New orbit
+{6 9 22 39 60}	# New orbit
+{5 6 27 36 63}	# New orbit
+{2 9 26 39 57}	# New orbit
+{6 9 26 39 57}	# New orbit
+{2 5 9 25 37 59}	# New orbit
+{5 14 15 25 27 37}	# New orbit
+{4 9 25 39 58}	# New orbit
+{6 14 15 25 27 37}	# New orbit
+{2 5 6 14 38 63}	# New orbit
+{3 5 6 26 38 59}	# New orbit
+{5 14 15 26 27 37}	# New orbit
+{6 14 25 33 63}	# New orbit
+{4 5 6 25 38 61}	# New orbit
+{4 6 37 38 61}	# New orbit
+{6 14 15 26 27 37}	# New orbit
+{3 9 26 39 60}	# New orbit
+{2 6 9 26 37 61}	# New orbit
+{1 15 22 39 60}	# New orbit
+{6 15 22 39 60}	# New orbit
+{5 14 26 36 63}	# New orbit
+{2 14 26 36 63}	# New orbit
+{6 14 26 36 63}	# New orbit
+{2 5 14 25 37 59}	# New orbit
+{5 9 25 39 58}	# New orbit
+{5 14 25 27 63}	# New orbit
+{2 5 6 26 38 59}	# New orbit
+{2 5 6 25 38 61}	# New orbit
+{4 5 9 25 38 61}	# New orbit
+{3 6 9 26 38 59}	# New orbit
+{6 14 25 27 63}	# New orbit
+{3 5 9 26 39 59}	# New orbit
+{5 25 26 37 39}	# New orbit
+{5 14 26 27 63}	# New orbit
+{6 25 26 37 39}	# New orbit
+{4 6 9 25 39 61}	# New orbit
+{6 14 26 27 63}	# New orbit
+{2 6 14 26 37 61}	# New orbit
+{3 15 26 39 60}	# New orbit
+{6 9 26 39 60}	# New orbit
+{5 14 27 36 63}	# New orbit
+{5 9 37 39 58}	# New orbit
+{5 15 25 39 58}	# New orbit
+{5 6 9 37 38 39}	# New orbit
+{2 5 9 25 38 61}	# New orbit
+{4 5 14 25 38 61}	# New orbit
+{4 6 15 24 39 58}	# New orbit
+{2 6 9 26 38 59}	# New orbit
+{6 9 37 39 60}	# New orbit
+{2 5 9 26 39 59}	# New orbit
+{2 6 9 25 39 61}	# New orbit
+{3 6 25 26 33 63}	# New orbit
+{6 15 26 39 60}	# New orbit
+{4 5 25 26 36 63}	# New orbit
+{5 15 37 39 58}	# New orbit
+{2 5 14 25 38 61}	# New orbit
+{5 6 14 26 38 59}	# New orbit
+{5 6 14 25 38 61}	# New orbit
+{5 25 27 33 63}	# New orbit
+{2 6 14 26 38 59}	# New orbit
+{2 5 25 26 37 59}	# New orbit
+{6 25 27 33 63}	# New orbit
+{6 15 37 39 60}	# New orbit
+{1 5 22 23 39 60}	# New orbit
+{5 6 22 23 39 60}	# New orbit
+{15 25 26 37 39}	# New orbit
+{2 9 25 26 37 39}	# New orbit
+{5 6 21 26 38 59}	# New orbit
+{1 4 6 22 24 39 58}	# New orbit
+{2 4 5 21 25 38 61}	# New orbit
+{2 6 25 26 37 61}	# New orbit
+{2 6 21 26 38 59}	# New orbit
+{5 26 27 36 63}	# New orbit
+{6 26 27 36 63}	# New orbit
+{2 9 21 26 57 59}	# New orbit
+{14 15 24 25 27 37}	# New orbit
+{4 6 24 25 39 58}	# New orbit
+{4 14 15 23 27 35 37}	# New orbit
+{4 5 24 25 38 61}	# New orbit
+{4 14 15 26 27 36 37}	# New orbit
+{5 25 37 39 58}	# New orbit
+{5 6 24 25 39 58}	# New orbit
+{14 25 27 33 63}	# New orbit
+{4 5 25 37 38 61}	# New orbit
+{3 6 26 37 38 59}	# New orbit
+{5 6 23 26 39 60}	# New orbit
+{2 6 14 25 61 63}	# New orbit
+{6 26 37 39 60}	# New orbit
+{14 26 27 36 63}	# New orbit
+{5 6 26 37 38 59}	# New orbit
+{5 6 25 37 38 61}	# New orbit
+{4 9 24 25 58 61}	# New orbit
+{5 14 25 26 37 63}	# New orbit
+{9 26 37 39 60}	# New orbit
+{5 15 25 26 27 63}	# New orbit
+{2 14 25 26 37 63}	# New orbit
+{6 14 25 26 37 63}	# New orbit
+{6 15 25 26 27 63}	# New orbit
+{5 9 25 37 38 61}	# New orbit
+{6 15 24 25 39 58}	# New orbit
+{6 9 26 37 38 59}	# New orbit
+{5 15 23 26 39 60}	# New orbit
+{5 9 26 37 39 59}	# New orbit
+{6 9 25 37 39 61}	# New orbit
+{15 26 37 39 60}	# New orbit
+{5 14 25 37 38 61}	# New orbit
+{6 14 26 37 38 59}	# New orbit
+{4 6 21 26 37 38 59}	# New orbit
+{6 24 25 37 39 58}	# New orbit
+{5 23 26 37 39 60}	# New orbit
+{5 6 9 26 38 39 59}	# New orbit
+{5 6 9 25 38 39 61}	# New orbit
+{3 15 25 26 27 33 63}	# New orbit
+{5 15 22 23 35 39 60}	# New orbit
+{4 14 25 26 36 37 63}	# New orbit
+{4 15 25 26 27 36 63}	# New orbit
+{2 9 37 38 59 61}	# New orbit
+{6 9 20 25 39 55 61}	# New orbit
+{5 9 21 26 39 57 59}	# New orbit
+{9 24 25 37 58 61}	# New orbit
+{1 15 37 39 58 60}	# New orbit
+{14 15 25 26 27 37 63}	# New orbit
+{2 5 25 37 38 59 61}	# New orbit
+{5 9 23 26 39 59 60}	# New orbit
+{6 9 24 25 39 58 61}	# New orbit
+{2 6 26 37 38 59 61}	# New orbit
+{9 13 21 22 23 26 56 57 59 60}	# New orbit
+{3 4 5 6 15 27}	# New orbit	# Dimension 9
+{3 4 5 6 25 26}	# New orbit
+{3 4 5 6 15 39}	# New orbit
+{3 4 5 6 25 39}	# New orbit
+{3 5 6 15 25 26}	# New orbit
+{4 5 6 15 25 26}	# New orbit
+{3 4 5 6 26 39}	# New orbit
+{4 5 6 14 25 27}	# New orbit
+{4 5 6 14 25 37}	# New orbit
+{3 4 5 6 37 39}	# New orbit
+{3 5 6 14 26 27}	# New orbit
+{3 5 6 14 26 37}	# New orbit
+{3 5 6 15 26 27}	# New orbit
+{2 3 5 6 20 25 26}	# New orbit
+{2 4 5 6 21 25 26}	# New orbit
+{3 4 5 15 25 39}	# New orbit
+{3 4 6 15 25 39}	# New orbit
+{3 4 5 15 26 39}	# New orbit
+{3 4 6 15 26 39}	# New orbit
+{4 5 6 24 25 27}	# New orbit
+{3 5 6 15 25 39}	# New orbit
+{4 5 6 15 25 39}	# New orbit
+{3 5 6 15 26 39}	# New orbit
+{4 5 6 15 26 39}	# New orbit
+{3 5 6 26 27 36}	# New orbit
+{3 4 5 14 15 27 37}	# New orbit
+{3 5 6 15 37 39}	# New orbit
+{3 4 6 14 15 27 37}	# New orbit
+{4 5 6 15 37 39}	# New orbit
+{3 4 5 25 26 39}	# New orbit
+{3 4 6 25 26 39}	# New orbit
+{4 5 6 14 15 27 37}	# New orbit
+{5 6 13 23 26 27}	# New orbit
+{3 5 6 25 26 39}	# New orbit
+{4 5 6 25 26 39}	# New orbit
+{3 6 14 26 27 36}	# New orbit
+{3 4 5 15 26 27 36}	# New orbit
+{4 6 15 22 26 39}	# New orbit
+{5 6 15 23 26 27}	# New orbit
+{5 6 15 23 26 37}	# New orbit
+{5 6 15 24 25 27}	# New orbit
+{5 6 15 24 25 37}	# New orbit
+{5 6 15 23 27 35}	# New orbit
+{3 5 6 15 25 27 33}	# New orbit
+{3 5 6 25 37 39}	# New orbit
+{4 5 6 25 37 39}	# New orbit
+{3 5 6 26 37 39}	# New orbit
+{2 5 6 25 26 39}	# New orbit
+{4 5 6 26 37 39}	# New orbit
+{3 4 15 25 26 39}	# New orbit
+{5 6 14 26 27 36}	# New orbit
+{4 5 6 14 26 36 37}	# New orbit
+{3 5 6 15 22 35 39}	# New orbit
+{4 5 6 15 26 27 36}	# New orbit
+{4 5 6 15 22 35 39}	# New orbit
+{3 5 15 25 26 39}	# New orbit
+{3 6 9 26 37 39}	# New orbit
+{4 5 15 25 26 39}	# New orbit
+{3 6 15 25 26 39}	# New orbit
+{4 6 15 25 26 39}	# New orbit
+{3 5 15 26 37 39}	# New orbit
+{5 6 15 25 26 39}	# New orbit
+{4 5 15 26 37 39}	# New orbit
+{3 6 15 26 37 39}	# New orbit
+{2 5 6 25 26 63}	# New orbit
+{4 6 15 26 37 39}	# New orbit
+{4 5 14 15 25 27 37}	# New orbit
+{5 6 15 25 37 39}	# New orbit
+{4 6 14 15 25 27 37}	# New orbit
+{3 5 14 15 26 27 37}	# New orbit
+{3 6 14 15 26 27 37}	# New orbit
+{5 6 15 26 37 39}	# New orbit
+{1 6 9 22 39 60}	# New orbit
+{2 6 9 26 39 57}	# New orbit
+{4 5 9 25 39 58}	# New orbit
+{5 6 14 15 25 27 37}	# New orbit
+{5 6 14 25 33 63}	# New orbit
+{5 6 14 15 26 27 37}	# New orbit
+{3 5 25 26 37 39}	# New orbit
+{3 6 25 26 37 39}	# New orbit
+{3 6 9 26 39 60}	# New orbit
+{4 6 25 26 37 39}	# New orbit
+{1 6 15 22 39 60}	# New orbit
+{5 6 14 26 36 63}	# New orbit
+{2 6 14 26 36 63}	# New orbit
+{4 5 6 9 37 38 39}	# New orbit
+{5 6 14 25 27 63}	# New orbit
+{4 6 9 37 38 61}	# New orbit
+{5 6 25 26 37 39}	# New orbit
+{5 6 14 26 27 63}	# New orbit
+{3 6 15 26 39 60}	# New orbit
+{5 6 14 27 36 63}	# New orbit
+{4 5 6 15 24 39 58}	# New orbit
+{4 5 6 14 25 38 61}	# New orbit
+{3 6 15 37 39 60}	# New orbit
+{2 3 5 25 26 39 55}	# New orbit
+{3 5 6 25 26 33 63}	# New orbit
+{4 5 6 25 26 36 63}	# New orbit
+{2 4 6 25 26 39 57}	# New orbit
+{4 14 15 24 25 27 37}	# New orbit
+{3 4 14 15 25 27 33 37}	# New orbit
+{5 6 25 27 33 63}	# New orbit
+{1 5 6 22 23 39 60}	# New orbit
+{5 15 25 26 37 39}	# New orbit
+{1 4 5 6 22 24 39 58}	# New orbit
+{6 15 25 26 37 39}	# New orbit
+{2 5 6 21 26 38 59}	# New orbit
+{2 4 5 6 21 25 38 61}	# New orbit
+{3 4 14 15 26 27 36 37}	# New orbit
+{5 6 26 27 36 63}	# New orbit
+{5 14 15 24 25 27 37}	# New orbit
+{4 5 6 24 25 39 58}	# New orbit
+{4 5 14 15 23 27 35 37}	# New orbit
+{6 14 15 24 25 27 37}	# New orbit
+{4 6 14 15 23 27 35 37}	# New orbit
+{4 5 6 24 25 38 61}	# New orbit
+{3 6 26 37 39 60}	# New orbit
+{1 4 6 9 22 24 39 58}	# New orbit
+{2 4 5 9 21 25 38 61}	# New orbit
+{4 5 14 15 26 27 36 37}	# New orbit
+{4 6 14 15 26 27 36 37}	# New orbit
+{5 14 25 27 33 63}	# New orbit
+{3 5 6 26 37 38 59}	# New orbit
+{6 14 25 27 33 63}	# New orbit
+{4 5 6 25 37 38 61}	# New orbit
+{2 4 5 14 21 25 38 61}	# New orbit
+{1 4 6 15 22 24 39 58}	# New orbit
+{2 3 6 20 25 26 39 55}	# New orbit
+{5 14 26 27 36 63}	# New orbit
+{6 14 26 27 36 63}	# New orbit
+{2 4 5 21 25 26 39 57}	# New orbit
+{5 9 25 37 39 58}	# New orbit
+{4 5 9 25 37 38 61}	# New orbit
+{4 6 15 24 25 39 58}	# New orbit
+{3 6 9 26 37 38 59}	# New orbit
+{3 5 15 23 26 39 60}	# New orbit
+{3 5 9 26 37 39 59}	# New orbit
+{5 6 14 25 26 37 63}	# New orbit
+{4 6 9 25 37 39 61}	# New orbit
+{6 9 26 37 39 60}	# New orbit
+{5 6 15 25 26 27 63}	# New orbit
+{5 15 25 37 39 58}	# New orbit
+{5 6 15 24 25 39 58}	# New orbit
+{4 5 14 25 37 38 61}	# New orbit
+{4 6 15 24 37 39 58}	# New orbit
+{5 6 15 23 26 39 60}	# New orbit
+{6 15 26 37 39 60}	# New orbit
+{1 5 6 15 22 35 39 62}	# New orbit
+{2 5 6 14 21 36 38 63}	# New orbit
+{5 6 14 26 37 38 59}	# New orbit
+{5 6 14 25 37 38 61}	# New orbit
+{2 3 5 9 26 39 55 59}	# New orbit
+{4 5 6 22 23 37 39 60}	# New orbit
+{4 5 6 21 26 37 38 59}	# New orbit
+{2 4 6 9 25 39 57 61}	# New orbit
+{4 6 24 25 37 39 58}	# New orbit
+{4 5 24 25 37 38 61}	# New orbit
+{3 5 6 9 26 38 39 59}	# New orbit
+{4 5 6 9 25 38 39 61}	# New orbit
+{5 6 24 25 37 39 58}	# New orbit
+{5 6 23 26 37 39 60}	# New orbit
+{2 5 6 9 26 38 39 59}	# New orbit
+{2 5 6 9 25 38 39 61}	# New orbit
+{3 5 15 25 26 27 33 63}	# New orbit
+{3 6 14 25 26 33 37 63}	# New orbit
+{3 6 15 25 26 27 33 63}	# New orbit
+{1 5 15 22 23 35 39 60}	# New orbit
+{5 6 15 22 23 35 39 60}	# New orbit
+{4 5 14 25 26 36 37 63}	# New orbit
+{4 5 15 25 26 27 36 63}	# New orbit
+{2 4 14 25 26 36 37 63}	# New orbit
+{4 6 14 25 26 36 37 63}	# New orbit
+{4 6 15 25 26 27 36 63}	# New orbit
+{4 9 24 25 37 58 61}	# New orbit
+{2 6 9 20 25 39 55 61}	# New orbit
+{2 5 9 21 26 39 57 59}	# New orbit
+{6 15 24 25 37 39 58}	# New orbit
+{5 15 23 26 37 39 60}	# New orbit
+{2 5 9 25 26 37 39 59}	# New orbit
+{2 6 9 25 26 37 39 61}	# New orbit
+{2 5 6 14 26 38 59 63}	# New orbit
+{2 5 6 14 25 38 61 63}	# New orbit
+{3 5 9 23 26 39 59 60}	# New orbit
+{4 6 9 24 25 39 58 61}	# New orbit
+{5 14 15 25 26 27 37 63}	# New orbit
+{6 14 15 25 26 27 37 63}	# New orbit
+{3 4 15 25 26 27 33 36 63}	# New orbit
+{5 6 9 26 37 38 39 59}	# New orbit
+{5 6 9 25 37 38 39 61}	# New orbit
+{2 5 14 25 26 37 59 63}	# New orbit
+{2 6 14 25 26 37 61 63}	# New orbit
+{4 6 14 21 26 36 37 38 59}	# New orbit
+{4 13 14 15 23 26 27 35 36 37}	# New orbit
+{2 5 9 25 37 38 59 61}	# New orbit
+{2 6 9 26 37 38 59 61}	# New orbit
+{4 6 9 21 26 37 38 57 59}	# New orbit
+{4 5 9 21 26 37 39 57 59}	# New orbit
+{2 5 14 25 37 38 59 61}	# New orbit
+{2 6 14 26 37 38 59 61}	# New orbit
+{2 4 5 21 25 37 38 59 61}	# New orbit
+{1 4 6 22 24 37 39 58 60}	# New orbit
+{2 4 6 21 26 37 38 59 61}	# New orbit
+{3 14 15 25 26 27 33 37 63}	# New orbit
+{4 14 15 25 26 27 36 37 63}	# New orbit
+{5 6 9 20 25 38 39 55 61}	# New orbit
+{5 6 9 21 26 38 39 57 59}	# New orbit
+{5 9 23 26 37 39 59 60}	# New orbit
+{6 9 24 25 37 39 58 61}	# New orbit
+{2 5 6 25 26 37 38 59 61}	# New orbit
+{5 6 9 24 25 38 39 58 61}	# New orbit
+{5 9 13 21 22 23 26 39 56 57 59 60}	# New orbit
+{3 4 5 6 15 25 26}	# New orbit	# Dimension 10
+{3 4 5 6 15 25 39}	# New orbit
+{3 4 5 6 15 26 39}	# New orbit
+{3 4 5 6 15 37 39}	# New orbit
+{2 3 4 5 6 20 21 25 26}	# New orbit
+{3 4 5 6 14 15 27 37}	# New orbit
+{3 4 5 6 25 26 39}	# New orbit
+{4 5 6 15 24 25 27}	# New orbit
+{4 5 6 15 24 25 37}	# New orbit
+{3 4 5 6 26 37 39}	# New orbit
+{3 5 6 14 26 27 36}	# New orbit
+{3 4 5 6 15 26 27 36}	# New orbit
+{3 4 5 6 15 22 35 39}	# New orbit
+{3 4 5 15 25 26 39}	# New orbit
+{3 4 6 15 25 26 39}	# New orbit
+{3 5 6 15 25 26 39}	# New orbit
+{4 5 6 15 25 26 39}	# New orbit
+{3 5 6 15 25 37 39}	# New orbit
+{4 5 6 15 25 37 39}	# New orbit
+{3 5 6 15 26 37 39}	# New orbit
+{4 5 6 15 26 37 39}	# New orbit
+{4 5 6 14 15 25 27 37}	# New orbit
+{3 5 6 14 15 26 27 37}	# New orbit
+{3 5 6 25 26 37 39}	# New orbit
+{4 5 6 25 26 37 39}	# New orbit
+{3 5 15 25 26 37 39}	# New orbit
+{3 6 15 25 26 37 39}	# New orbit
+{3 4 5 6 9 28 37 38 39}	# New orbit
+{4 6 15 25 26 37 39}	# New orbit
+{4 5 14 15 24 25 27 37}	# New orbit
+{3 4 5 14 15 25 27 33 37}	# New orbit
+{4 6 14 15 24 25 27 37}	# New orbit
+{3 4 6 14 15 25 27 33 37}	# New orbit
+{5 6 15 25 26 37 39}	# New orbit
+{3 4 5 14 15 26 27 36 37}	# New orbit
+{3 4 6 14 15 26 27 36 37}	# New orbit
+{5 6 14 15 24 25 27 37}	# New orbit
+{4 5 6 14 15 23 27 35 37}	# New orbit
+{4 5 6 14 15 26 27 36 37}	# New orbit
+{5 6 14 25 27 33 63}	# New orbit
+{3 6 9 26 37 39 60}	# New orbit
+{2 4 5 6 20 21 25 38 61}	# New orbit
+{5 6 14 26 27 36 63}	# New orbit
+{2 4 5 6 21 25 26 39 57}	# New orbit
+{4 5 6 15 24 25 39 58}	# New orbit
+{3 5 6 15 23 26 39 60}	# New orbit
+{3 6 15 26 37 39 60}	# New orbit
+{4 5 6 15 24 37 39 58}	# New orbit
+{4 5 6 14 25 37 38 61}	# New orbit
+{3 4 5 6 21 26 37 38 59}	# New orbit
+{4 5 6 24 25 37 39 58}	# New orbit
+{4 5 6 24 25 37 38 61}	# New orbit
+{3 5 6 14 25 26 33 37 63}	# New orbit
+{3 5 6 15 25 26 27 33 63}	# New orbit
+{4 5 6 14 25 26 36 37 63}	# New orbit
+{4 5 6 15 25 26 27 36 63}	# New orbit
+{4 6 15 24 25 37 39 58}	# New orbit
+{3 5 15 23 26 37 39 60}	# New orbit
+{5 6 15 24 25 37 39 58}	# New orbit
+{5 6 15 23 26 37 39 60}	# New orbit
+{3 5 6 9 26 37 38 39 59}	# New orbit
+{4 5 6 9 25 37 38 39 61}	# New orbit
+{5 6 14 15 25 26 27 37 63}	# New orbit
+{3 4 5 15 25 26 27 33 36 63}	# New orbit
+{3 4 6 15 25 26 27 33 36 63}	# New orbit
+{4 5 6 15 22 23 35 37 39 60}	# New orbit
+{4 5 6 14 21 26 36 37 38 59}	# New orbit
+{4 6 13 14 15 23 26 27 35 36 37}	# New orbit
+{2 3 5 9 25 26 37 39 55 59}	# New orbit
+{3 5 14 15 25 26 27 33 37 63}	# New orbit
+{2 4 5 9 21 25 37 38 59 61}	# New orbit
+{3 6 14 15 25 26 27 33 37 63}	# New orbit
+{1 4 6 9 22 24 37 39 58 60}	# New orbit
+{4 5 14 15 25 26 27 36 37 63}	# New orbit
+{4 6 14 15 25 26 27 36 37 63}	# New orbit
+{2 4 6 9 25 26 37 39 57 61}	# New orbit
+{3 5 9 23 26 37 39 59 60}	# New orbit
+{4 6 9 24 25 37 39 58 61}	# New orbit
+{2 4 5 14 21 25 37 38 59 61}	# New orbit
+{2 5 6 9 20 25 38 39 55 61}	# New orbit
+{1 4 6 15 22 24 37 39 58 60}	# New orbit
+{2 5 6 9 21 26 38 39 57 59}	# New orbit
+{2 4 5 6 9 21 25 38 39 57 61}	# New orbit
+{1 5 6 15 22 23 35 39 60 62}	# New orbit
+{2 5 6 14 21 26 36 38 59 63}	# New orbit
+{2 4 5 6 14 21 25 36 38 61 63}	# New orbit
+{2 4 5 9 21 25 26 37 39 57 59}	# New orbit
+{4 5 6 9 24 25 38 39 58 61}	# New orbit
+{2 3 5 6 20 25 26 37 38 59 61}	# New orbit
+{2 4 5 6 21 25 26 37 38 59 61}	# New orbit
+{3 4 14 15 25 26 27 33 36 37 63}	# New orbit
+{2 4 5 14 21 25 26 36 37 59 63}	# New orbit
+{4 5 6 9 22 23 37 38 39 56 60}	# New orbit
+{4 5 6 9 21 26 37 38 39 57 59}	# New orbit
+{2 4 6 14 21 26 36 37 38 59 61}	# New orbit
+{2 4 6 9 21 26 37 38 57 59 61}	# New orbit
+{5 6 9 24 25 37 38 39 58 61}	# New orbit
+{2 5 6 9 25 26 37 38 39 59 61}	# New orbit
+{2 5 6 14 25 26 37 38 59 61 63}	# New orbit
+{4 5 9 13 21 22 23 26 37 39 56 57 59 60}	# New orbit
+{5 6 9 13 21 22 23 26 38 39 56 57 59 60}	# New orbit
+{3 4 5 6 15 25 26 39}	# New orbit	# Dimension 11
+{3 4 5 6 15 26 37 39}	# New orbit
+{3 4 5 6 25 26 37 39}	# New orbit
+{3 5 6 15 25 26 37 39}	# New orbit
+{4 5 6 15 25 26 37 39}	# New orbit
+{4 5 6 14 15 24 25 27 37}	# New orbit
+{3 4 5 6 14 15 25 27 33 37}	# New orbit
+{3 4 5 6 14 15 26 27 36 37}	# New orbit
+{4 5 6 15 24 25 37 39 58}	# New orbit
+{3 5 6 15 23 26 37 39 60}	# New orbit
+{3 4 5 6 14 21 26 36 37 38 59}	# New orbit
+{3 4 5 6 15 25 26 27 33 36 63}	# New orbit
+{4 5 6 13 14 15 23 26 27 35 36 37}	# New orbit
+{3 5 6 14 15 25 26 27 33 37 63}	# New orbit
+{4 5 6 14 15 25 26 27 36 37 63}	# New orbit
+{3 4 5 14 15 25 26 27 33 36 37 63}	# New orbit
+{3 4 6 14 15 25 26 27 33 36 37 63}	# New orbit
+{2 3 4 5 6 20 21 25 26 37 38 59 61}	# New orbit
+{3 4 5 6 9 21 26 28 37 38 39 57 59}	# New orbit
+{4 5 6 9 24 25 37 38 39 58 61}	# New orbit
+{2 3 5 6 9 20 25 26 37 38 39 55 59 61}	# New orbit
+{2 4 5 6 9 21 25 26 37 38 39 57 59 61}	# New orbit
+{2 3 5 6 14 20 25 26 33 37 38 59 61 63}	# New orbit
+{2 4 5 6 14 21 25 26 36 37 38 59 61 63}	# New orbit
+{4 5 6 9 13 21 22 23 26 37 38 39 56 57 59 60}	# New orbit
+{3 4 5 6 15 25 26 37 39}	# New orbit	# Dimension 12
+{3 4 5 6 13 14 15 23 26 27 35 36 37}	# New orbit
+{3 4 5 6 14 15 25 26 27 33 36 37 63}	# New orbit
+{2 3 4 5 6 9 20 21 25 26 28 37 38 39 55 57 59 61}	# New orbit
+{2 3 4 5 6 14 20 21 25 26 33 36 37 38 46 59 61 63}	# New orbit
+{3 4 5 6 9 13 21 22 23 26 28 37 38 39 56 57 59 60}	# New orbit
+

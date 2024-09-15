@@ -61,7 +61,7 @@ def rayToPol(rays, raymat, count = True, tol = 1e-10):
     #if it is, then the cone is full-dimensional
     indicator = [1 if abs(i) < 1e-10 else 0 for i in point]
     mat = ut.toZeroDiagonalMatrix(indicator)
-    if(count):
+    if count:
         return ut.isAcyclic(mat)
     else:
         if(ut.isAcyclic(mat)):
@@ -101,5 +101,5 @@ def coneProcess(raymat, fn = 'input/cones.gfp4', count = True):
 if __name__ == '__main__':
     raymat = rayProcess('input/rays.gfp4')     
     ctr = coneProcess(raymat, fn = 'input/cones.gfp4')
-    print ctr #number of full-dimensional types of polytropes
+    print(ctr)  #number of full-dimensional types of polytropes
  

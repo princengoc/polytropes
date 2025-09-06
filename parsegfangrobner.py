@@ -17,7 +17,6 @@ input/cones.gfp4
 
 import numpy as np
 import utilities as ut
-import itertools as itt
 
 
 def _rayline(line):
@@ -76,15 +75,23 @@ def rayToPol(rays, raymat, count=True, tol=1e-10):
 
 def coneProcess(raymat, fn="input/cones.gfp4", count=True):
     """Read in the list of cone representatives of GFP.
+
     Returns a list of pair (matrix, boolean), one for each cone.
-    Boolean is
-        True if the cone is a full-dimensional polytrope,
-        False otherwise
-    Matrix is
-        some point in the cone interior if Boolean is True
-        None otherwise
-    If count is True
-        Returns the total number of full-dimensional polytropes only"""
+
+    Boolean is:
+
+    True if the cone is a full-dimensional polytrope,
+    False otherwise
+
+    Matrix is:
+
+    some point in the cone interior if Boolean is True
+    None otherwise
+
+    If count is True:
+
+    Returns the total number of full-dimensional polytropes only
+    """
     gf = open(fn, "r")
     gf.readline()  # ignore the empty cone
     poList = []

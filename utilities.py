@@ -7,7 +7,6 @@ Created on Tue Oct  1 00:37:17 2013
 Collection of utilities functions. These are static methods that are shared by
 several classes.
 """
-import itertools as itt
 from functools import reduce
 import numpy as np
 
